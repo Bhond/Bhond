@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Charles 👋  
 
-<!--
-**Bhond/Bhond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Robotics & AI Enthusiast | Systems Builder**  
 
-Here are some ideas to get you started:
+I build **high-performance simulations, robotics infrastructure, and AI systems**.  
+Currently working with **Amazon Robotics (via Alten US)** on Python/C++ pipelines and robotic simulation environments.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- **Languages**: C++20, Python, Rust (learning), C#, Fortran  
+- **Specialties**: Robotics, Simulation, AI/ML, Real-Time Systems, Data Pipelines  
+- **Tools**: AWS (Athena, S3, boto3), PyTorch, Docker, ROS2, NumPy/Pandas  
+
+### 📌 Featured Projects
+- [NBody](https://github.com/Bhond/NBody) → High-performance C++ gravity simulation  
+- [pyDLShowcase](https://github.com/Bhond/pyDLShowcase) → Deep learning demo collection in Python  
+- [Lenia](https://github.com/Bhond/Lenia) → Artificial life simulator inspired by cellular automata  
+
+### 📈 Current Focus
+- 🚀 Optimizing robotics simulations (C++/Python/Rust)  
+- 🤖 Applying AI to control + perception in robotics  
+- 🌱 Contributing to open-source (ROS2, PyTorch ecosystem)  
+
+---
+
+📫 **Let’s connect:**  
+[LinkedIn](www.linkedin.com/in/charles-merino-521330134) • [Email](mailto:charlesmerino@hotmail.fr) • [Portfolio (coming soon)]()
