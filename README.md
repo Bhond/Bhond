@@ -23,4 +23,4 @@ Currently working with **Amazon Robotics (via Alten US)** on Python/C++ pipeline
 ---
 
 📫 **Let’s connect:**  
-[LinkedIn](www.linkedin.com/in/charles-merino-521330134) • [Email](mailto:charlesmerino@hotmail.fr) • [Portfolio (coming soon)]()
+[LinkedIn](https://www.linkedin.com/in/charles-merino-521330134) • [Email](mailto:charlesmerino@hotmail.fr) • [Portfolio (coming soon)]()
